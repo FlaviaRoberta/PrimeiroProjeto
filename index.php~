@@ -1,6 +1,12 @@
 <Doctype html>
 <html lang=pt-BR>
 	<body>
+<<<<<<< HEAD
+	  <?php echo "Olá mundo!".PHP_EOL; ?>
+	  <?php echo "Oi".PHP_EOL;?>
+=======
 	  <?php echo "Ola mundo!".PHP_EOL; ?>
+	  <?php echo Oi!
+>>>>>>> contatos
 	</body>
 </html>
